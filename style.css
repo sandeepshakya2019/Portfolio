@@ -224,6 +224,19 @@ header p {
 }
 
 /* navbar */
+footer#footer {
+    background: rgba(54, 53, 54, .96);
+    /* Dark color/Footer color, can be changed via colors.css */
+    color: #fff;
+}
+
+
+footer h4 {
+    display: inline-block;
+    margin:none;
+    padding: 0;
+    color: #fff;
+}
 
 
 
